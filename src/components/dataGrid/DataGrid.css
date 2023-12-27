@@ -1,0 +1,30 @@
+.app-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.app-item {
+    background-color: #f2f2f2;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.app-item:hover {
+    background-color: #eaeaea;
+}
+
+.app-name, .app-version {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.app-name strong {
+    color: #333;
+}
+
+.app-version strong {
+    color: #007bff; /* Bootstrap primary color for example */
+}

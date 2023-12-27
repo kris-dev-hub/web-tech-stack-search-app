@@ -1,0 +1,13 @@
+.select-input-container {
+    display: flex;
+    justify-content: center;
+}
+
+.select-input-container select {
+    max-width: 200px;
+    margin-right: 10px;
+}
+
+.select-input-container input {
+    max-width: 100px;
+}
