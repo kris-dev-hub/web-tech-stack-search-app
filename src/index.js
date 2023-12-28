@@ -8,7 +8,7 @@ import { BrowserRouter, Route, Routes} from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basename="/dev/techstack-search/">
       <Routes>
         <Route path="/*" element={<App />} />
       </Routes>
