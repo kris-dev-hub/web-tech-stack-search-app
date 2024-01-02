@@ -14,3 +14,7 @@ Frontend for Tech stack project. Allow to search for websites with specific tech
 ## Backend
 
 The backend for this project can be found at [website-tech-stack-search-api](https://github.com/kris-dev-hub/website-tech-stack-search-api).
+
+## Demo
+
+Check out the demo at [Tech stack search demo](https://krisdevhub.com/dev/techstack-search/).
