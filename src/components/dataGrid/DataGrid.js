@@ -44,6 +44,10 @@ const columns = [
         name: 'Host',
         selector: row => row.host,
     },
+    {
+        name: 'IP',
+        selector: row => row.ip,
+    }
 ];
 
 const DataGrid = ({hosts,page,limit,handlePageChange,handlePerRowsChange, loading}) => {

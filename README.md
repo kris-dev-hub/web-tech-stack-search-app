@@ -18,3 +18,7 @@ The backend for this project can be found at [website-tech-stack-search-api](htt
 ## Demo
 
 Check out the demo at [Tech stack search demo](https://krisdevhub.com/dev/techstack-search/).
+
+## Start
+
+npm start
